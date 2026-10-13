@@ -6,8 +6,7 @@
  * or related systems. Please exercise caution as any changes
  * made to this file may be overwritten.
  * ------------------------------------------------------------
- */
-{
+ */{
   "sections": {
     "hero_jVaWmY": {
       "type": "hero",
@@ -132,7 +131,7 @@
         "horizontal_alignment_flex_direction_column": "flex-start",
         "vertical_alignment_flex_direction_column": "flex-end",
         "gap": 20,
-        "section_width": "full-width",
+        "section_width": "page-width",
         "section_height": "large",
         "section_height_custom": 50,
         "background_color": "rgba(0,0,0,0)",
@@ -1146,7 +1145,7 @@
         "horizontal_alignment_flex_direction_column": "center",
         "vertical_alignment_flex_direction_column": "flex-end",
         "gap": 16,
-        "section_width": "full-width",
+        "section_width": "page-width",
         "section_height": "full-screen",
         "toggle_overlay": true,
         "overlay_color": "#2b211b99",
