@@ -87,8 +87,8 @@
                   "type": "logo",
                   "settings": {
                     "unit": "pixel",
-                    "pixel_height": 32,
-                    "inverse": false
+                    "pixel_height": 28,
+                    "inverse": true
                   },
                   "blocks": {}
                 },
