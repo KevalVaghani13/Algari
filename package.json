@@ -8,6 +8,7 @@
     "dev": "shopify theme dev -e development --theme-editor-sync",
     "pull": "shopify theme pull --store=algari-njexdmck.myshopify.com -x package.json -x package-lock.json",
     "push": "shopify theme push -x package.json -x package-lock.json -x /css -e development --unpublished",
+    "push:live": "shopify theme push -x package.json -x package-lock.json -e development --live --allow-live",
     "build": "shopify theme build",
     "deploy": "shopify theme deploy",
     "logout": "shopify theme logout",
