@@ -171,6 +171,7 @@
     "disclosures": "Oplysninger"
   },
   "settings": {
+    "accent_color": "Accent color",
     "alignment": "Justering",
     "autoplay": "Automatisk afspilning",
     "background": "Baggrund",
@@ -1092,6 +1093,7 @@
     "disclosures": "Oplysninger"
   },
   "info": {
+    "accent_color_decorative": "Used for decorative rules and fine details only, not text or focus indicators.",
     "carousel_layout_on_mobile": "Karrusellen bruges altid på mobil",
     "video_alt_text": "Beskriv videoen for brugere af hjælpeteknologi",
     "video_autoplay": "Videoer vil som standard være uden lyd",

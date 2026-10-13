@@ -171,6 +171,7 @@
     "disclosures": "Divulgations"
   },
   "settings": {
+    "accent_color": "Accent color",
     "autoplay": "Lecture automatique",
     "background": "Arrière-plan",
     "border_radius": "Rayon de la bordure",
@@ -1092,6 +1093,7 @@
     "disclosures": "Divulgations"
   },
   "info": {
+    "accent_color_decorative": "Used for decorative rules and fine details only, not text or focus indicators.",
     "carousel_layout_on_mobile": "Le carrousel est toujours utilisé sur mobile",
     "video_alt_text": "Décrivez la vidéo pour les utilisateurs de technologies d’assistance",
     "video_autoplay": "Les vidéos seront mises en sourdine par défaut",

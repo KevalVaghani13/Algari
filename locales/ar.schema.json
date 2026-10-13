@@ -215,6 +215,7 @@
     "work_quickly_to_ship": "<p>سنعمل بسرعة لشحن طلبك في أقرب وقت ممكن. بمجرد شحن طلبك، ستتلقى رسالة بريد إلكتروني تحتوي على مزيد من المعلومات. تختلف أوقات التوصيل حسب موقعك.</p>"
   },
   "info": {
+    "accent_color_decorative": "Used for decorative rules and fine details only, not text or focus indicators.",
     "actions_display_style": "تُستخدم الأيقونات دائماً على الهاتف المحمول",
     "applies_on_image_only": "ينطبق على الصور فقط",
     "aspect_ratio_adjusted": "معدل في بعض التخطيطات",
@@ -688,6 +689,7 @@
     "below_media": "أسفل الوسائط"
   },
   "settings": {
+    "accent_color": "Accent color",
     "accordion": "أكورديون",
     "account": "حساب",
     "actions_display_style": "نمط القائمة",

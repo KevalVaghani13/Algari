@@ -171,6 +171,7 @@
     "disclosures": "Bildirimler"
   },
   "settings": {
+    "accent_color": "Accent color",
     "autoplay": "Otomatik oynatma",
     "background": "Arka plan",
     "border_radius": "Köşe yarıçapı",
@@ -1092,6 +1093,7 @@
     "disclosures": "Bildirimler"
   },
   "info": {
+    "accent_color_decorative": "Used for decorative rules and fine details only, not text or focus indicators.",
     "video_alt_text": "Yardımcı teknoloji kullanıcıları için videoyu açıklayın",
     "video_autoplay": "Videolar varsayılan olarak sessize alınır",
     "video_external": "Bir YouTube veya Vimeo URL'si kullanın",

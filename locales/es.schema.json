@@ -171,6 +171,7 @@
     "disclosures": "Divulgaciones"
   },
   "settings": {
+    "accent_color": "Accent color",
     "alignment": "Alineación",
     "autoplay": "Reproducción automática",
     "background": "Fondo",
@@ -1092,6 +1093,7 @@
     "disclosures": "Divulgaciones"
   },
   "info": {
+    "accent_color_decorative": "Used for decorative rules and fine details only, not text or focus indicators.",
     "carousel_layout_on_mobile": "En dispositivos móviles siempre se usa el carrusel",
     "video_alt_text": "Describe el video para personas usuarias de tecnologías de asistencia",
     "video_autoplay": "Los videos estarán silenciados de forma predeterminada",

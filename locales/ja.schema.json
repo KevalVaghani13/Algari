@@ -171,6 +171,7 @@
     "disclosures": "開示情報"
   },
   "settings": {
+    "accent_color": "Accent color",
     "alignment": "配置",
     "autoplay": "自動再生",
     "background": "背景",
@@ -1092,6 +1093,7 @@
     "disclosures": "開示情報"
   },
   "info": {
+    "accent_color_decorative": "Used for decorative rules and fine details only, not text or focus indicators.",
     "video_alt_text": "支援技術のユーザーのために動画の説明を記述します",
     "video_autoplay": "動画はデフォルトでミュートになります",
     "video_external": "YouTubeまたはVimeoのURLを使用します",

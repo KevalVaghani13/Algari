@@ -66,6 +66,13 @@
           "background": "#ffffff",
           "foreground": "#000000"
         }
+      },
+      {
+        "type": "color",
+        "id": "algari_accent_color",
+        "label": "t:settings.accent_color",
+        "info": "t:info.accent_color_decorative",
+        "default": "#B08D57"
       }
     ]
   },

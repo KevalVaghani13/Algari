@@ -171,6 +171,7 @@
     "disclosures": "고지 사항"
   },
   "settings": {
+    "accent_color": "Accent color",
     "autoplay": "자동 재생",
     "background": "배경",
     "border_radius": "모서리 반경",
@@ -1092,6 +1093,7 @@
     "disclosures": "고지 사항"
   },
   "info": {
+    "accent_color_decorative": "Used for decorative rules and fine details only, not text or focus indicators.",
     "carousel_layout_on_mobile": "모바일에서는 항상 캐러셀이 사용됩니다.",
     "video_alt_text": "보조 기술 사용자를 위해 비디오를 설명하세요",
     "video_autoplay": "비디오는 기본적으로 음소거됩니다",

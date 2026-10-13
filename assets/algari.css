@@ -1,0 +1,51 @@
+/*
+ * Algari brand layer.
+ * Global refinements that settings cannot express. Colors, fonts, radii, and
+ * button case live in theme settings; keep this file to typography rhythm,
+ * decorative details, and restrained motion. Component rules stay with their owners.
+ */
+
+::selection {
+  background-color: rgb(var(--color-accent-rgb) / var(--opacity-30));
+  color: inherit;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+:where(h1, h2, h3, .h1, .h2, .h3) {
+  text-wrap: balance;
+}
+
+/* Small uppercase UI text reads better with tracking. */
+.button,
+.button-secondary,
+.product-badges__badge {
+  letter-spacing: 0.08em;
+}
+
+/* Restrained reveal for homepage sections, progressive and motion-safe. */
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    main[data-template='index'] > .shopify-section:not(:first-child) > * {
+      animation: algari-reveal linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 35%;
+    }
+  }
+}
+
+@keyframes algari-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(1.5rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
